@@ -97,10 +97,23 @@ pedidos-api/
 ├── Gemfile.lock
 ├── Dockerfile
 └── README.md
-Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Desenvolvido por Cauê Santander
+##  Testando a API
 
-Versão: 1.0.0 - API Pedidos 
-Data de Atualização: Agosto 2026
+### Com Swagger
+1. Acesse `https://localhost:5000/swagger`
+3. Execute `/api/AuthToken/AuthToken` para obter o token
+4. Clique em "Authorize" e insira: `Bearer {seu-token}`
+5. Teste os endpoints protegidos
+
+##  Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+---
+
+**Desenvolvido por [Cauê Santander](https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/)**
+
+**Versão:** 1.0.0 - API Pedidos  
+**Data de Atualização:** Agosto 2026
+
