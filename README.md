@@ -97,3 +97,10 @@ pedidos-api/
 ├── Gemfile.lock
 ├── Dockerfile
 └── README.md
+Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Desenvolvido por Cauê Santander
+
+Versão: 1.0.0 - API Pedidos 
+Data de Atualização: Agosto 2026
