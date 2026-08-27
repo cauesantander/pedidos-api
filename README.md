@@ -97,11 +97,11 @@ pedidos-api/
 ├── Gemfile.lock
 ├── Dockerfile
 └── README.md
-
+```
 ##  Testando a API
 
 ### Com Swagger
-1. Acesse `https://localhost:5000/swagger`
+1. Acesse `https://localhost:3000/swagger`
 3. Execute `/api/AuthToken/AuthToken` para obter o token
 4. Clique em "Authorize" e insira: `Bearer {seu-token}`
 5. Teste os endpoints protegidos
